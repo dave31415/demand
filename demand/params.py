@@ -1,2 +1,2 @@
-root_dir = "/path/to/root"
-data_dir = "/path/to/data"
+root_dir = "/Users/davej/TW/demand"
+data_dir = "/Users/davej/TW/demand/data"
